@@ -1,1 +1,9 @@
 info.txt
+
+# Gurobi license - never commit
+gurobi.lic
+*.lic
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/

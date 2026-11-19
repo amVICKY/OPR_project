@@ -1,0 +1,10 @@
+name: opr
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - matplotlib
+  - pip
+  - pip:
+      - gurobipy
+      - pygame
